@@ -1,0 +1,5 @@
+Libraries used in the code:
+cv2 - for License Detection
+pytesseract - for recognizing the text in License Plates
+imutils - for processing the image
+tkinter - the frontend GUI
